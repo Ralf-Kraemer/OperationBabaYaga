@@ -1,0 +1,75 @@
+[
+	{
+		"headers" : {
+				":authority" : "euronewsabout.enwscloud.com",
+				":method" : "POST",
+				":path" : "/wp-admin/admin-ajax.php",
+				"scheme" : "https",
+				"accept" : "*/*",
+				"accept-encoding" : "gzip, deflate, br",
+				"accept-language" : "de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7",
+				"content-length" : "",
+				"content-type" : "application/x-www-form-urlencoded; charset=UTF-8",
+				"origin" : "https://euronews.com",
+				"referer" : "https://euronews.com",
+				"sec-fetch-dest" : "empty",
+				"sec-fetch-mode" : "cors",
+				"sec-fetch-site": "cross-site",
+				"User-Agent" : ""
+			},
+		"payload" : {
+				"action" : "create_subscriber",
+				"newsletters" : "[{\"id\":\"366\",\"form_key\":\"b8348b2daa8e4fa1\",\"ownpage_id\":26},{\"id\":\"368\",\"form_key\":\"0a5789a86a2a4dcc\",\"ownpage_id\":3043},{\"id\":\"23633\",\"form_key\":\"b25a10befaaa416c\",\"ownpage_id\":3375}]",
+				"email" : ""
+		}
+	},
+	{
+		"headers" : {
+				":authority" : "ukranews.com",
+				":method" : "POST",
+				":path" : "/ajax/subscribe",
+				"scheme" : "https",
+				"accept" : "*/*",
+				"accept-encoding" : "gzip, deflate, br",
+				"accept-language" : "de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7",
+				"content-length" : "",
+				"content-type" : "application/x-www-form-urlencoded; charset=UTF-8",
+				"origin" : "https://ukranews.com",
+				"referer" : "https://ukranews.com",
+				"sec-fetch-dest" : "empty",
+				"sec-fetch-mode" : "cors",
+				"sec-fetch-site": "same-origin",
+				"User-Agent" : "",
+				"x-requested-with" : "XMLHttpRequest"
+			},
+		"payload" : {
+				"email" : ""
+		}
+	},
+	{
+		"headers" : {
+				":authority" : "www.uadn.net",
+				":method" : "POST",
+				":path" : "/mymail/subscribe/",
+				"scheme" : "https",
+				"accept" : "*/*",
+				"accept-encoding" : "gzip, deflate, br",
+				"accept-language" : "de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7",
+				"content-length" : "",
+				"content-type" : "application/x-www-form-urlencoded; charset=UTF-8",
+				"origin" : "https://www.uadn.net",
+				"referer" : "https://www.uadn.net/newsletter-signup/",
+				"sec-fetch-dest" : "empty",
+				"sec-fetch-mode" : "cors",
+				"sec-fetch-site": "same-origin",
+				"User-Agent" : ""
+			},
+		"payload" : {
+				"email" : "",
+				"_referer" : "https://www.uadn.net/newsletter-signup/",
+				"formid" : "0",
+				"lists[0]" : "634",
+				"lists[1]" : "639"
+		}
+	}
+]
