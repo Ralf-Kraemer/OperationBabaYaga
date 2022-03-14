@@ -22,7 +22,7 @@ We are Legion, though, and you should have expected us.
 
 1. Baba Yaga generates likely-to-exist Russian email addresses, by combining some of the most common (or most important) personal names, family names and email address domains in Russia.
 
-2. Baba Yaga then "curses" each email address, without verifying its existence, by randomly signing it up to a European or Ukrainian newsletter, with news coverage of Putin's illegal and appalling invasion of Ukraine.
+2. Baba Yaga then "curses" each email address, without verifying its existence, by randomly signing it up to a European/Ukrainian newsletter, with news coverage of Putin's illegal and appalling invasion of Ukraine.
 
 3. Operation Baba Yaga is a humble and somewhat desperate attempt to pierce the veil of deception and censorship, that the ONF and their grunts are trying to create in and around Russia. It can sign up thousands of email addresses per day, and can run on any computer with Python 3. (VPN strongly recommended)
 
