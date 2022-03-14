@@ -1,5 +1,11 @@
 ## Operation Baba Yaga  
 
+> TODO
+> - Find more newsletters with suitable forms and content
+> - Find ways around reCAPTCHA
+> - Fix proxy settings
+> - Expand input data
+
 ### Background  
 
 Since the war criminal and dictator Vladimir Putin has thrown a deadly shadow onto the free, brave and beautiful country of Ukraine, the Ukrainian government and its people have asked the world for help, and the world has begun to answer the call. This includes the Anonymous collective.
@@ -18,7 +24,7 @@ We are Legion, though, and you should have expected us.
 
 2. Baba Yaga then "curses" each email address, without verifying its existence, by randomly signing it up to a European or Ukrainian newsletter, with news coverage of Putin's illegal and appalling invasion of Ukraine.
 
-3. Operation Baba Yaga is a humble and somewhat desperate attempt to pierce the veil of deception and censorship, that the ONF and their grunts are trying to create in and around Russia.
+3. Operation Baba Yaga is a humble and somewhat desperate attempt to pierce the veil of deception and censorship, that the ONF and their grunts are trying to create in and around Russia. It can sign up thousands of email addresses per day, and can run on any computer with Python 3. (VPN strongly recommended)
 
 4. The goal of Operation Baba Yaga is to widen the availability of critical and less biased information, particularly about Russian war crimes in Ukraine, and to support progressive, pacifist and democratic sentiments in Russia.
 
